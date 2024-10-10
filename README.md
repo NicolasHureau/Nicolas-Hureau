@@ -8,6 +8,8 @@ My mind has become a bottomless pit hungry for knowledge.
 ##  🚀 Current side project :
 
 I'm working on a website for the Milton Pub at Annecy.
+Study at "Campus Numérique in the Alps".
+Add "RNCP 5 Dev. Web et Web mobile" diploma with Crafted-by project.
 
 ##  💻 Starter Stack :
 <div align="center">
